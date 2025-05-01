@@ -1,6 +1,4 @@
 # Xception
-Here is the information from the webpage, formatted as a standard README for GitHub:
-
 Xception Model in Keras
 This document details the implementation and usage of the Xception model within the Keras API. Xception is a deep convolutional neural network architecture renowned for its effectiveness in image classification tasks.
 
